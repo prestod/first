@@ -1,0 +1,23 @@
+
+	text-align: center;
+	font: 25px arial, sans-serif;
+}
+
+#quote{
+	font-style: italic;
+	text-align: center;
+	border-style: solid;
+	border-bottom-color:red;
+}
+
+#work {
+	background-color:Bisque;
+	color:red;
+	}
+#ed {
+	background-color:Red;
+	color:Bisque;
+}
+
+div{padding-left: 20px;
+}
