@@ -32,3 +32,11 @@ img {
 body {
 	background-color:Bisque;
 }
+#content{
+	height:1000px;
+}
+#header {
+	position:fixed;
+}
+}
+}
